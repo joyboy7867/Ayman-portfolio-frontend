@@ -3,3 +3,9 @@
 @tailwind utilities;
 
 
+
+@media (max-width:993px) {
+    .ripple{
+        height: 950px;
+    }
+}
